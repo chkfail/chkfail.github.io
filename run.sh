@@ -1,0 +1,1 @@
+nohup jekyll serve --trace --watch > ../jekyll.log &
